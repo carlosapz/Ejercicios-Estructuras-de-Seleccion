@@ -1,4 +1,4 @@
 # Ejercicios-Estructuras-de-Seleccion
 
 
-ejercicios hechos en python :v
+ejercicios hechos en Pseint xd :v
